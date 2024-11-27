@@ -1,6 +1,6 @@
 <?php 
 //incluir la conexion de base de datos
-require "../config/Conexion.php";
+use require "../config/Conexion.php";
 class Articulo{
 
 
